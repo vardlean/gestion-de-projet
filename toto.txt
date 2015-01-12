@@ -6,3 +6,6 @@ exec /share/vim/vim74/vim "$@"
 
 kezokefzpkoekopfkozkopf
 kofkzeopkfopkeopfkzop
+
+
+fdez,fezjiozjeio
